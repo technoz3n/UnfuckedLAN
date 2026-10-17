@@ -3,13 +3,13 @@
 	"id": "unfuckedlan",
 	"version": "${version}",
 	"name": "UnfuckedLAN",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Forces offline mode on integrated servers because wrapper mods are garbage.",
 	"authors": [
-		"Me!"
+		"techy (technoz3n)"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://technoz3n.is-a.dev/",
+		"sources": "https://github.com/technoz3n/UnfuckedLAN"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/unfuckedlan/icon.png",

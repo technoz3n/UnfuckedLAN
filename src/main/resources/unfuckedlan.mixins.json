@@ -3,7 +3,7 @@
 	"package": "xyz.technoz3n.unfuckedlan.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ExampleMixin"
+		"IntegratedServerMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
